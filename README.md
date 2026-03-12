@@ -1,2 +1,4 @@
 # NetSentinel-Py
-Scappy based intrusion detection system. Detects common ports used in attacks.
+## Uses Python and Scapy as a lightweight intrusion detection system
+
+## Features :
