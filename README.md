@@ -8,7 +8,7 @@
 * **Live Debugging          :** Gives a real-time summary for network analysis
 
 ## Requirements :
-* **Python 3.x**
+* **Python 3.x.x**
 * **Npcap**
 * **Scappy Libary**
 
